@@ -50,4 +50,7 @@ GPU：Intel Iris Plus Graphics 655 1536 MB
 觉得我的EFI帮助到你了就给我打赏一下吧😊
 
 
+联系邮箱 nickhonglu@outlook.com
+
+
 ![截屏2021-05-14 下午6 59 17](https://user-images.githubusercontent.com/82742298/118261699-81515180-b4e6-11eb-85e9-a19fd1c2b0e1.png)
