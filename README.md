@@ -53,4 +53,25 @@ GPU：Intel Iris Plus Graphics 655 1536 MB
 联系邮箱 nickhonglu@outlook.com
 
 
+联系QQ 2402141296
+
+
+P.S. 我是一名小学生 我的第1台电脑是i3 9100F H310 GTX1050ti 这里也向大神求助 这一套黑苹果的EFI
+
+
+感谢名单
+
+
+Apple的macOS apple.com
+
+
+黑果小兵 https://blog.daliansky.net/
+
+
+程序小黑 chengxuxiaohei.cn
+
+
+感谢所有的大神！
+
+
 ![截屏2021-05-14 下午6 59 17](https://user-images.githubusercontent.com/82742298/118261699-81515180-b4e6-11eb-85e9-a19fd1c2b0e1.png)
